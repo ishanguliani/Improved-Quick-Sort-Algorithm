@@ -6,6 +6,7 @@ using std::vector;
 using std::swap;
 using std::cout;
 using std::endl;
+using std::cin;
 
 //this function performs a 3 way partition of the input vector a as follows 
 //partition A : contains all elements less than the pivot element
